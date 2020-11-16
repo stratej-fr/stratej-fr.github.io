@@ -2,7 +2,7 @@ title:              Stratej Blog
 email:              jn@stratej.fr
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/stratej-fr"
+baseurl:            "/"
 url:                "https://stratej-fr.github.io"
 
 # Social Profiles
